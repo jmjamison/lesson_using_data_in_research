@@ -51,19 +51,16 @@ ucla-data-archive@googlegroups.com
 ========================================================
 
 ## Defining Your Research
-
 ![illustration: define your research](./images/DefineResearch.jpg "defining your research")
 
 ========================================================
 
 ## Defining Your Research
-
 ![illustration: surveys in research](./images/survey01.jpg "Surveys in research")
 
 ========================================================
 
 ## Defining Your Research
-
 ![illustration: surveys in research2](./images/survey02.jpg "Surveys in research")
 
 ========================================================

@@ -1,24 +1,30 @@
-========================================================
+name: inverse
+class: center, middle
+layout: true
+
+---
 
 # Using Data in Research
 
-**__UCLA Library Data Archive__**  
-1120-H Rolfe Hall  
-ucla-data-archive@googlegroups.com  
-310-825-0716  
-[https://www.library.ucla.edu/social-science-data-archive](https://www.library.ucla.edu/social-science-data-archive)
+.left[.footnote[__UCLA Library Data Archive__<br/>
+1120-H Rolfe Hall<br/>
+ucla-data-archive@googlegroups.com<br/>
+310-825-0716<br/>
+[https://www.library.ucla.edu/social-science-data-archive](https://www.library.ucla.edu/social-science-data-archive)]]
 
+???
+slide notes  test
+---
+layout: false
 
-========================================================
-
-## Today's Topics
+## Today's Topics  
 
 1. Social Science Data Archives
 2. How to search for and find research data
 3. Learn about sources for data
 4. Data Management Plans
 
-========================================================
+---
 
 ## Social Science Data Archives
 
@@ -28,14 +34,14 @@ ucla-data-archive@googlegroups.com
 * List services
 
 
-========================================================
+---
 
 ## Role of Data in Research
 
 ![illustration: role of data in resaerch](./images/roleOfData.jpg "role of data in research")
 
 
-========================================================
+---
 
 ## Finding Out About Data Sources
 
@@ -48,22 +54,22 @@ ucla-data-archive@googlegroups.com
 * Codebooks, questionnaires
 * Exploration of datasets
 
-========================================================
+---
 
 ## Defining Your Research
 ![illustration: define your research](./images/DefineResearch.jpg "defining your research")
 
-========================================================
+---
 
 ## Defining Your Research
 ![illustration: surveys in research](./images/survey01.jpg "Surveys in research")
 
-========================================================
+---
 
 ## Defining Your Research
 ![illustration: surveys in research2](./images/survey02.jpg "Surveys in research")
 
-========================================================
+---
 
 
 ## Questionnaires and Codebooks
@@ -72,7 +78,7 @@ ucla-data-archive@googlegroups.com
 
 
 
-========================================================
+---
 
 ## What is a Questionnaire?
 
@@ -86,22 +92,22 @@ ucla-data-archive@googlegroups.com
     * Attitudes (e.g. towards immigration)
     * An index (e.g. Social Economic Status)
 
-========================================================
+---
 
 ## Codebooks
 ![illustration: codebook #1](./images/codebook01.jpg "Codebooks #1")
 
-========================================================
+---
 
 ## Codebooks
 
 ![illustration: codebook #2](./images/codebook02.jpg "Codebooks #2")
 
-========================================================
+---
 
 ## ICPSR section
 
-========================================================
+---
 
 
 

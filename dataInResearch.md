@@ -19,20 +19,30 @@ layout: false
 
 ## Today's Topics  
 
-1. Social Science Data Archives
-2. How to search for and find research data
-3. Learn about sources for data
-4. Data Management Plans
+In this session you will:
+* Learn about the role of data in your research
+* How to search for and access data for research
+* Learn about resources, tools and support available to students and researchers at UCLA
+* Data Management Plans
 
 ---
 
-## Social Science Data Archives
+## UCLA Library Data Archives
+(formally the Social Science Data Archive)
 
 * Available to all students
 * Holdings include public opinion polls, census data, crime stats, political and social behavior, etc.
 * Provide assistance in finding and using data
-* List services
+* Provide assistance finding and using data
 
+[https://www.library.ucla.edu/location/social-science-data-archive](https://www.library.ucla.edu/location/social-science-data-archive)
+
+---
+## Data Archive: Our services
+* Reference: assist students to find and use data
+* Data Management Plans
+* Metadata
+* Provide training: Software/Library carpentry
 
 ---
 
@@ -42,6 +52,11 @@ layout: false
 
 
 ---
+## Defining Your Research
+![illustration: define your research](./images/DefineResearch.jpg "defining your research")
+
+---
+
 
 ## Finding Out About Data Sources
 
@@ -55,19 +70,10 @@ layout: false
 * Exploration of datasets
 
 ---
-
-## Defining Your Research
-![illustration: define your research](./images/DefineResearch.jpg "defining your research")
-
----
-
-## Defining Your Research
-![illustration: surveys in research](./images/survey01.jpg "Surveys in research")
-
----
-
-## Defining Your Research
-![illustration: surveys in research2](./images/survey02.jpg "Surveys in research")
+## Search Strategies
+* General to specific; broad to narrow
+* Names of investigators; names of studies
+* Studies described in literature, news and websites
 
 ---
 
@@ -76,7 +82,7 @@ layout: false
 
 ### How do I know this study useful?  
 
-
+(raw data example)
 
 ---
 

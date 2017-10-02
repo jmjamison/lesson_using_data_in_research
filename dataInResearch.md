@@ -78,11 +78,13 @@ In this session you will:
 ---
 
 
-## Questionnaires and Codebooks
+## How do I know this study useful?
 
-### How do I know this study useful?  
+#### Raw data are not eye-readable.  
 
-(raw data example)
+![illustration: codebook #1](./images/rawData.jpg "Raw Data sample")  
+
+#### To decipher data you will use:  Questionnaires and Codebooks
 
 ---
 
@@ -107,7 +109,7 @@ In this session you will:
 
 ## Codebooks
 
-![illustration: codebook #2](./images/codebook02.jpg "Codebooks #2")
+![illustration: codebook #2](./images/codebookExample.jpg "CodebookExample")
 
 ---
 

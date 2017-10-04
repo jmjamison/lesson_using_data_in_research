@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Using Data in Research</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: 400;
+        margin-bottom: 0;
+      }
+      .remark-slide-content h1 { font-size: 3em; }
+      .remark-slide-content h2 { font-size: 2em; }
+      .remark-slide-content h3 { font-size: 1.6em; }
+      .footnote {
+        font-family: 'Droid Serif';
+        font-weight: normal;
+        font-size: smaller;
+        position: absolute;
+        bottom: 3em;
+      }
+      li p { line-height: 1.25em; }
+      .red { color: #fa0000; }
+      .large { font-size: 2em; }
+      a, a > code {
+        color: rgb(249, 38, 114);
+        text-decoration: none;
+      }
+      code {
+        background: #e7e8e2;
+        border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-code-line-highlighted     { background-color: #373832; }
+      .pull-left {
+        float: left;
+        width: 47%;
+      }
+      .pull-right {
+        float: right;
+        width: 47%;
+      }
+      .pull-right ~ p {
+        clear: both;
+      }
+      #slideshow .slide .content code {
+        font-size: 0.8em;
+      }
+      #slideshow .slide .content pre code {
+        font-size: 0.9em;
+        padding: 15px;
+      }
+      .inverse {
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+
+      /* Slide-specific styling */
+      #slide-inverse .footnote {
+        bottom: 12px;
+        left: 20px;
+      }
+      #slide-how .slides {
+        font-size: 0.9em;
+        position: absolute;
+        top:  151px;
+        right: 140px;
+      }
+      #slide-how .slides h3 {
+        margin-top: 0.2em;
+      }
+      #slide-how .slides .first, #slide-how .slides .second {
+        padding: 1px 20px;
+        height: 90px;
+        width: 120px;
+        -moz-box-shadow: 0 0 10px #777;
+        -webkit-box-shadow: 0 0 10px #777;
+        box-shadow: 0 0 10px #777;
+      }
+      #slide-how .slides .first {
+        background: #ff
+        f;
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        z-index: 1;
+      }
+      #slide-how .slides .second {
+        position: relative;
+        background: #fff;
+        z-index: 0;
+      }
+
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 20%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 75%;
+        float: right;
+        padding-top: 1em;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+      name: inverse
+      class: center, middle
+      layout: true
+
+      ---
+
+      # Using Data in Research
+
+      .left[.footnote[__UCLA Library Data Archive__<br/>
+      1120-H Rolfe Hall<br/>
+      ucla-data-archive@googlegroups.com<br/>
+      310-825-0716<br/>
+      [https://www.library.ucla.edu/social-science-data-archive](https://www.library.ucla.edu/social-science-data-archive)]]
+
+      .left[.footnote[Psych M144 / Stats M154   Fall 2017]]
+
+      ???
+      slide notes  test
+      ---
+      layout: false
+
+      ## Today's Topics
+
+      In this session you will:
+      * Learn about the role of data in your research
+      * How to search for and access data for research
+      * Learn about resources, tools and support available to students and researchers at UCLA
+      * Data Management Plans
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+
+      ---
+
+      ## UCLA Library Data Archives
+      #### (formally the Social Science Data Archive)
+
+      * On the UCLA campus since 1961 [About the Data Archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)]
+      * Available to all UCLA faculty and students
+      * Holdings include public opinion polls, census data, crime stats, political and social behavior, etc.
+
+      [https://www.library.ucla.edu/location/social-science-data-archive](https://www.library.ucla.edu/location/social-science-data-archive)
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+      ## Data Archive: Our services
+      * Reference: assist students to find and use data
+      * Data Management Plans
+      * Metadata
+      * Provide training: [Software/Library carpentry](https://software-carpentry.org/) / [Software Carpentry R-language](https://www.library.ucla.edu/events/software-carpentry-workshop-r-version)
+      ![illustration: Carpentry-logos](./images/carpentrys-logo.jpg "carpentry-logos")  
+      * Host events and lectures:  [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
+
+
+
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+
+      ## Role of Data in Research
+
+      ![illustration: role of data in resaerch](./images/roleOfData.jpg "role of data in research")
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+
+      ## Finding Out About Data Sources
+
+      * Colleagues
+      * Public media (newspapers, news)
+      * Social media (twitter, etc)
+      * Scholarly literature
+      * Government reports and documents
+      * Archives and project websites
+      * Codebooks, questionnaires
+      * Exploration of datasets
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+
+      ## Search Strategies and Defining Your Research
+      ![illustration: define your research](./images/DefineResearch.jpg "defining your research")
+
+      * General to specific; broad to narrow
+      * Names of investigators; names of studies
+      * Studies described in literature, news and websites
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+
+      ## Search Strategies
+      * General to specific; broad to narrow
+      * Names of investigators; names of studies
+      * Studies described in literature, news and websites
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+
+
+      ## How do I know this study useful?
+
+      #### Raw data are not eye-readable.
+
+      ![illustration: codebook #1](./images/rawData.jpg "Raw Data sample")
+
+      #### To decipher data you will use:  Questionnaires and Codebooks
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+
+      ## What is a Questionnaire?
+
+      * A __questionnaire__ is a _research_ instrument consisting of a series of _questions_ and other prompts for the purpose of gathering information from respondents.
+      * Questionnaires cover separate topics such as:
+      	* Preferences (e.g. political party)
+          * Behaviors (e.g. food consumption)
+          * Facts (e.g. gender)
+      * Questionnaires can include indexes or scales:
+      	* Latent traits (e.g. personality traits)
+          * Attitudes (e.g. towards immigration)
+          * An index (e.g. Social Economic Status)
+
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      		???
+      ---
+
+      ## Codebooks
+      ![illustration: codebook #1](./images/codebook01.jpg "Codebooks #1")
+
+
+
+      ???
+      ---
+
+      ## Codebooks
+      ![illustration: codebook #2](./images/codebookExample.jpg "CodebookExample")
+
+
+
+
+      ???
+      ---
+
+      ## ICPSR section
+
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+      ---
+
+
+
+      ## Questions?
+
+      ![illustration: Questions](./images/questions.jpg "Questions?")
+
+      .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+      ???
+
+
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>

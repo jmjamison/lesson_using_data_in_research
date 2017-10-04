@@ -30,7 +30,11 @@ In this session you will:
 ## UCLA Library Data Archives
 #### (formally the Social Science Data Archive)
 
+<<<<<<< HEAD
 * On the UCLA campus since 1961 [About the Data Archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)
+=======
+* On the UCLA campus since 1961 [About the Data Archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)]
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4
 * Available to all UCLA faculty and students
 * Holdings include public opinion polls, census data, crime stats, political and social behavior, etc.
 
@@ -49,6 +53,11 @@ In this session you will:
 
 * Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4
 
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
 
@@ -82,16 +91,26 @@ In this session you will:
 ---
 
 ## Search Strategies and Defining Your Research
+<<<<<<< HEAD
+=======
+![illustration: define your research](./images/DefineResearch.jpg "defining your research")
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4
 
 * General to specific; broad to narrow
 * Names of investigators; names of studies
 * Studies described in literature, news and websites  
+<<<<<<< HEAD
 
 ![illustration: define your research](./images/DefineResearch.jpg "defining your research")
 
 
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
 
+=======
+
+.left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4
 ???
 ---
 
@@ -124,20 +143,30 @@ In this session you will:
 
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
 
+<<<<<<< HEAD
 ???
+=======
+		???
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4
 ---
 
 ## Codebooks
 ![illustration: codebook #1](./images/codebook01.jpg "Codebooks #1")  
 
+<<<<<<< HEAD
 
 
+=======
+
+
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4
 ???
 ---
 
 ## Codebooks  
 ![illustration: codebook #2](./images/codebookExample.jpg "CodebookExample")  
 
+<<<<<<< HEAD
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
 
 ???
@@ -193,7 +222,12 @@ In this session you will:
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
 
 ???
+=======
 
+
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4
+
+???
 ---
 
 ## ICPSR: Study Page and Data
@@ -205,6 +239,10 @@ In this session you will:
 
 ???
 
+
+.left[.footnote[Psych M144/Stats M154 Fall 2017]]
+
+???
 ---
 
 ## ICPSR: Reading About Data
@@ -281,6 +319,7 @@ Los Angeles County Health Survey:   http://publichealth.lacounty.gov/ha/hasurvey
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
 
 ???
+<<<<<<< HEAD
 ---
 
 ## Problems ?
@@ -293,3 +332,5 @@ ucla-data-archive@googlegroups.com<br/>
 
 
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
+=======
+>>>>>>> 05f29fda5d0471c42c916c88f49687f229adebc4

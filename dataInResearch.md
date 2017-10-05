@@ -12,10 +12,10 @@
 
 ## Today's Topics    
 
-* UCLA Library Data Archives 
-* The role of data in your research 
-* How to search for and acess data for research 
-* Resources, tools and support available to students at UCLA 
+* UCLA Library Data Archives
+* The role of data in your research
+* How to search for and acess data for research
+* Resources, tools and support available to students at UCLA
 * Publishing and Data Management Plans
 
 .left[.footnote[Psych M144/Stats M154 Fall 2017]]
@@ -118,8 +118,8 @@
 
 ---
 
-## Questionnaire
-![illustration: Questionnaire](./images/codebook01.jpg "Questionnaire")  
+## Questionnaire: ABC New Poll
+![illustration: Questionnaire ABC New Poll](./images/codebook01.jpg "Questionnaire ABC New Poll")  
 
 ---
 ## What is a Codebook?
@@ -137,13 +137,13 @@
 ---
 
 
-## Codebooks: Example #1
+## Codebook: General Social Survey
 ![illustration: codebook #2](./images/codebook02.jpg "CodebookExample")  
 
 ---
 
-## Codebooks: Example #2  
-.center[![illustration: Raw data and codebook](./images/rawdataCodebook.jpg "Raw data and codebook")]
+## Codebook and Raw Data
+.center[![illustration: Codebook and Raw Data](./images/rawdataCodebook.jpg "Codebook and Raw Data")]
 
 ---
 

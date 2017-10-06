@@ -6,3 +6,4 @@
 - R presentation (.Rpres) version
 
 Images in the presentation are in the images directory.
+Google fonts in out directory

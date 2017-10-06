@@ -3,8 +3,8 @@ title: "Using Data in Research"
 author: "UCLA Library Data Archive"
 date: "Fall 2017"
 output:
-  beamer_presentation: default
   ioslides_presentation: default
+  beamer_presentation: default
 ---
 
 ```{r setup, include=FALSE}

@@ -1,4 +1,4 @@
-# lesson_using_data_in_research
+# lesson_using_data_in_research / Reber PP290  Fall 2017
 
 3 versions of the presentation
 - markdown (.md) verion

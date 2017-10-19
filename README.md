@@ -7,3 +7,7 @@
 
 Images in the presentation are in the images directory.
 Google fonts in out directory
+
+Bentler Psych M144/Stats M154 Fall 2017:  <https://jmjamison.github.io/using_data_in_research/dataInResearch_Bentler-Fall2017.html#1>
+
+Reber PP290 Fall 2017: 

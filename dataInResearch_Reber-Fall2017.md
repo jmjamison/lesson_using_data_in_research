@@ -4,23 +4,23 @@
 Library Data Archive
 Fall Quarter 2017
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+.footnote[PP290 Public Policy     Fall 2017]
 ---
 
 
 ## Today's Topics    
 
-* UCLA Library Data Archives
+* UCLA Library Social Science Data Archives
 * The role of data in your research
-* How to search for and acess data for research
+* How to search for and access data for research
 * Resources, tools and support available to students at UCLA
 * Publishing and Data Management Plans
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## UCLA Library Data Archives   
-#### (formally the Social Science Data Archive)
+
 * On the UCLA campus since 1961 [About the Data Archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)
 * Available to all UCLA faculty and students
 * Holdings include public opinion polls, census data, crime stats, political and social behavior, etc.  
@@ -28,7 +28,7 @@ Fall Quarter 2017
 ![illustration: Rolfe Hall](./images/dataArchive.jpg "Data Archive Library Website")
 
 [https://www.library.ucla.edu/location/social-science-data-archive](https://www.library.ucla.edu/location/social-science-data-archive)
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 ## Data Archive: Our services
 * Reference: assist students to find and use data
@@ -38,13 +38,13 @@ Fall Quarter 2017
 ![illustration: Carpentry-logos](./images/carpentrys-logo.jpg "carpentry-logos")
 
 * Host events and lectures: [Data Archive News and Upcoming Events](https://www.library.ucla.edu/location/social-science-data-archive)
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Role of Data in Research
 
 ![illustration: role of data in resaerch](./images/roleOfData.jpg "role of data in research")
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Finding Out About Data Sources
@@ -59,7 +59,7 @@ Fall Quarter 2017
 * Codebooks, questionnaires
 * Exploration of datasets
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Search Strategies and Defining Your Research
@@ -69,17 +69,23 @@ Fall Quarter 2017
 * Studies described in literature, news and websites  
 
 ![illustration: define your research](./images/DefineResearch.jpg "defining your research")
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
+<br>
+# Questionnaires and Codebooks
 
+<br>
 ## How do I know this study useful?
 
+---
+
+## Studies with Raw Data
 * Raw data are __not__ eye-readable
 * To decipher data you will use __Questionnaires and Codebooks__
 
 ![illustration: codebook #1](./images/rawData.jpg "Raw Data sample")  
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## What is a Questionnaire?
@@ -96,12 +102,12 @@ Fall Quarter 2017
     * Attitudes (e.g. towards immigration)
     * An index (e.g. Social Economic Status)
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Questionnaire: ABC New Poll
 ![illustration: Questionnaire ABC New Poll](./images/codebook01.jpg "Questionnaire ABC New Poll")  
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 ## What is a Codebook?
 
@@ -114,89 +120,89 @@ Fall Quarter 2017
 * Example of the Questionnaire
 * Detail on who responded to the survey
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 
 ## Codebook: General Social Survey
 ![illustration: codebook #2](./images/codebook02.jpg "CodebookExample")  
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Codebook and Raw Data
 ![illustration: Codebook and Raw Data](./images/rawdataCodebook.jpg "Codebook and Raw Data")  
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR Data Site  
 #### Inter-university Consortium for Political and Social Research [http://www.icpsr.umich.edu](http://www.icpsr.umich.edu)  
 ![illustration: ICPSR](./images/icpsr01.jpg "ICPSR")  
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 ## ICPSR: Find Data
 [http://www.icpsr.umich.edu/icpsrweb/ICPSR](http://www.icpsr.umich.edu/icpsrweb/ICPSR)  
 ![illustration: ICPSR Find Data](./images/icpsr02.jpg "ICPSR Find Data")  
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Register to Access Data
 
 ![illustration: ICPSR Register](./images/icpsr03.jpg "ICPSR Register")
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Search by Topics
 
 ![illustration: ICPSR Search by Topics](./images/icpsr04.jpg "ICPSR Search by Topics")
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Search for and Compare Variables
 
 ![illustration: ICPSR Search for and Compare Variables](./images/icpsr05.jpg "ICPSR Search for and Compare Variables")
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Compare Variables
 
 ![illustration: ICPSR Compare Variables](./images/icpsr06.jpg "ICPSR Compare Variables")
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Study Page and Data
 
 ![illustration: ICPSR Study Page and Data#1](./images/icpsr07.jpg "ICPSR Study Page and Data")  
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Reading About Data
 
 ![illustration: ICPSR Reading About Data](./images/icpsr08.jpg "ICPSR Reading About Data")
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Publications linked to Data
 
 ![illustration: ICPSR Publications linked to Data](./images/icpsr09.jpg "ICPSR Publications linked to Data")  
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## ICPSR: Publications Linked to Data
 
 ![illustration: ICPSR Publications Linked to Data](./images/icpsr10.jpg "ICPSR Publications linked to Data")
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Data Sources
@@ -211,7 +217,7 @@ Fall Quarter 2017
 * Pew Research Center: [http://www.pewresearch.org/](http://www.pewresearch.org/)
 * Data.gov: [https://www.data.gov/](https://www.data.gov/)
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 # Data Management Plans
@@ -220,14 +226,14 @@ Fall Quarter 2017
 * Why do I need this?
 * What tools are available to help?
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## What is a Data Management Plan?
 
 A data management plan is a document that describes what you will do with your data _during_ your research and _after_ you complete your research.
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Why do you need this?
@@ -237,7 +243,7 @@ A data management plan is a document that describes what you will do with your d
 * Sharing and Archiving Data
 * Regardless of the requirements, good data management is an essential skill for researchers.
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Getting Help with Data Management Plans
@@ -245,14 +251,14 @@ A data management plan is a document that describes what you will do with your d
 * Data Archive
 * ICPSR
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Questions?  
 
 ![illustration: Questions](./images/questions.jpg "Questions?")
 
-.footnote[Psych M144/Stats M154     Fall 2017]
+
 ---
 
 ## Problems ?
@@ -263,5 +269,3 @@ ucla-data-archive@googlegroups.com<br/>
 310-825-0716<br/><br/>
 Tim Dennis, Director of the Data Archive<br/>
 Jamie Jamison, Archive Staff<br/>
-
-.footnote[Psych M144/Stats M154     Fall 2017]

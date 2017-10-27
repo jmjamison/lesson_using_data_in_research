@@ -20,7 +20,7 @@ Fall Quarter 2017
 ---
 
 ## UCLA Library Data Archives   
-#### (formally the Social Science Data Archive)
+ 
 * On the UCLA campus since 1961 [About the Data Archive](https://www.library.ucla.edu/social-science-data-archive/about-data-archive)
 * Available to all UCLA faculty and students
 * Holdings include public opinion polls, census data, crime stats, political and social behavior, etc.  

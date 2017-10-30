@@ -202,6 +202,42 @@ Fall Quarter 2017
 
 ![illustration: ICPSR Publications Linked to Data](./images/icpsr10.jpg "ICPSR Publications linked to Data")
 
+---
+
+## Pew Research Center
+[http://www.pewresearch.org/](http://www.pewresearch.org/)
+![illustration: Pew Research Center](./images/pewResearchCenter.png "Pew Research Center")
+
+---
+
+##  Roper Center: Articles, Tables and Access to Data
+[https://ropercenter.cornell.edu/](https://ropercenter.cornell.edu/)
+![illustration: Roper Center](./images/ropercenter.png "Roper Center")
+
+---
+
+## National Center for Health Statistics
+[https://www.cdc.gov/nchs/nhis/index.htm](https://www.cdc.gov/nchs/nhis/index.htm)
+![illustration: National Center for Health Statistics](./images/nchs-cdc.png "National Center for Health Statistics")
+
+---
+
+## IPUMS: Integrated Health Interview Series
+[https://www.ipums.org/](https://www.ipums.org/)
+![illustration: IPUMS](./images/ipums-site.png "IPUMS")
+
+---
+
+## National Bureau of Economic Research
+[http://www.nber.org/data/](http://www.nber.org/data/)
+![illustration: NBER](./images/nber.png "NBER")
+
+---
+
+## Data from U.S. Census Bureau
+[https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) 
+![illustration: U.S. Census Bureau](./images/uscensusbureau.png "U.S. Census Bureau")
+
 
 ---
 
@@ -209,6 +245,7 @@ Fall Quarter 2017
 
 * ICPSR: [http://www.icpsr.umich.edu/icpsrweb/ICPSR/](http://www.icpsr.umich.edu/icpsrweb/ICPSR/)
 * UCLA Library Data Archive Catalog: [https://dataverse.harvard.edu/dataverse/ssda_ucla](https://dataverse.harvard.edu/dataverse/ssda_ucla)
+* Roper Center for Public Opinion Research: [https://ropercenter.cornell.edu/](https://ropercenter.cornell.edu/)
 * Government Sites, Census Data:   [https://www.census.gov/](https://www.census.gov/)
 * IPUMS (Integrated Public Use Microdata Series): [https://www.ipums.org/](https://www.ipums.org/)
 * Public Policy Institute of CA: [www.ppic.org](www.ppic.org)
